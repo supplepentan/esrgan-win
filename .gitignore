@@ -1,4 +1,5 @@
 /venv/
 /input/
 /output/
+/logs/
 __pycache__
