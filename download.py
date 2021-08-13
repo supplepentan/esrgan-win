@@ -1,3 +1,4 @@
 import subprocess
 
-subprocess.Popen(['python', r"./download/download_dog_cat.py"])
+subprocess.run(['python', r"./download/download_dog_cat.py"])
+print("Download Finished")
